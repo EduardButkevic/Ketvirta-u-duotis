@@ -1,0 +1,112 @@
+.row * {
+    background-color: rgb(26, 150, 67);
+}
+
+.th {
+    border: solid 3px;
+    background-color: rgb(148, 143, 143);
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.td {
+    border: solid 1px;
+    background-color: rgb(196, 190, 190);
+    font-family: Arial, Helvetica, sans-serifs;
+}
+
+.tdleft {
+    border: solid 1px;
+    border-left: solid 3px;
+    background-color: rgb(196, 190, 190);
+    font-family: Arial, Helvetica, sans-serifs;
+}
+
+.tdright {
+    border: solid 1px;
+    border-right: solid 3px;
+    background-color: rgb(196, 190, 190);
+    font-family: Arial, Helvetica, sans-serifs;
+}
+
+.tdbottom {
+    border: solid 1px;
+
+    border-bottom: solid 3px;
+    background-color: rgb(196, 190, 190);
+    font-family: Arial, Helvetica, sans-serifs;
+}
+
+.tdbottomleft {
+    border: solid 1px;
+    border-left: solid 3px;
+    border-bottom: solid 3px;
+    background-color: rgb(196, 190, 190);
+    font-family: Arial, Helvetica, sans-serifs;
+}
+
+.tdbottomright {
+    border: solid 1px;
+    border-right: solid 3px;
+    border-bottom: solid 3px;
+    background-color: rgb(196, 190, 190);
+    font-family: Arial, Helvetica, sans-serifs;
+}
+
+.btn-primary,
+.btn-primary:hover {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-primary:active {
+    font-weight: bold;
+    color: black;
+    transform: scale(0.95);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+
+}
+
+.btn-primary:visited {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-warning,
+.btn-warning:hover {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-warning:active {
+    font-weight: bold;
+    color: black;
+    transform: scale(0.95);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
+
+.btn-warning:visited {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-danger,
+.btn-danger:hover {
+    font-weight: bold;
+    color: black;
+}
+
+.btn-danger:active {
+    font-weight: bold;
+    color: black;
+    transform: scale(0.95);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
+
+.btn-danger:visited {
+    font-weight: bold;
+    color: black;
+}
