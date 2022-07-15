@@ -8,6 +8,7 @@
 table {
     border: solid 3px;
     background-color: rgba(177, 177, 177, 0);
+    text-align: center;
 }
 
 .th {
